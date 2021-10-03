@@ -94,7 +94,9 @@ Logistic regression is the appropriate regression analysis to conduct when the 
 
 ![image](https://user-images.githubusercontent.com/71822090/128054080-83dd564b-c982-4109-877e-36d7065c9fa0.png)
 
+## Conclusion
 
+This could be expanded to make a PCOS prediction application which will help females in constantly checking their health and also can be modified to monitor their food habbits and workouts, and finally could be a better health companion to all women.
 
 
 
